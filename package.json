@@ -1,0 +1,17 @@
+{  "name": "svg-logo-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@svgdotjs/svg.js": "^3.2.0",
+    "inquirer": "^8.2.4",
+    "svg.js": "^2.7.1",
+    "svgdom": "^0.1.19"
+  }
+}
